@@ -1,18 +1,88 @@
 {
   "projects": [
     {
-      "title": "Test2",
-      "description": "This page automatically fetches the projects from GitHub and displays them in two tabbed sections while keeping your style.This page automatically fetches the projects from GitHub and displays them in two tabbed sections while keeping your style.This page automatically fetches the projects from GitHub and displays them in two tabbed sections while keeping your style.",
-      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQ4AAACUCAMAAABV5TcGAAAAeFBMVEXaICj////YAADrm53aFiDmfoHVAADaHSXeTEz21db55OXplJTdOkDeSE3ZFB3YAAj99vbwtLXoiYv1ysvnhIfwubraDRnfTlLbKzL43N3pj5HYAA/iVVv77e7to6XbJy7hYGPzwcPuq63ld3rkbXDdQUbcMznkZmtY1UXcAAANOElEQVR4nO2d65qiMBKGEYIZUQOKhkM4Cuj93+GC2q0kVRxs7KV3/f7MPK1AeJNUKpVK1LSPPvroo48++uijjz766KM/L0paov/t8vSLvLPE6aal86Q3f4uqdonTKe9Ns+PuWcl55u2DbvJWgY/ZlAUm5qKluCIT3v0NYl67wAtzygLLOKzN3HFEb8RB6eGP4SDZO3Fo4V/DUb4Th5/8LRxKc54UBznv/hgOzXgnjo37x3CkuzfiYP+Cv4YjfyMOLg9bs8fhB2/EQYo/hoNsnPfhoKlsmGaPQ3Y7psShWNL549i/EQeL5KY3cxyUygPLhDhUn2b2OFLrfTjIefXHcBB5PjslDmV2OHscLHkfDqrlfwwHFfH7cDBl0Jo7Di5PZyfEQZliOeaOQ5dd0glx2MoQPnccAmgcU+HgFXDvWeOguuwlTYeDC4jGnHGkS9mFng6HgGnMGcdyDZZ4Chy6D9MYjYNSShgXQnBO6v+PLwm9LwP2XUwQGj/HQZmuOOev4KjfhHPOzpEZrkMz21B+ZTL2eu1cbc4aa/6LXky5fkRK/DMcTRk8YIQdjYMy4l+S1bNfFLt7jxE2DEjdqqi3z7/nIJYbZvU91Yuv7e+i+l8/w0HptV1SmuUojLpQZ0GYKqWQlGnRDjL0VuLTAcvI9Xf+GYoX4ey29NZr6P3B1xKnJl5/C5MD5a0v7Hm+lqb+eXs5oZhvb5NVW0Ab6W5Ey0Azf9VxS/taCKHeCb54Vfo1gfSrFF5UGviTGoVggbdV51J2PZc/ukE3ig4dW32IskoJO7R0qkhX7VC2MaCWdVNQ+MID3M9xcj3W2TgwUzRILRyElH1c44LipaEk62j8zatE2c9xbLtxdNdnj55xMA0Z8lo6bbDiECrHqxU5uRLlGavfwsFTpNfL5fE4aEAoDfsv/rl+CQdTlsEwBRFkUCn/FRq/hIONuI+VCbUgwuy/cAr9Cg4q1OgcrpXH5XIsL/iQMql+BYeNevdwmSqJB1Mj4W/Sb+AQ2bi6dU5p2/9AZx6T6xdwMHUhokfxvjW82JefFGKUfgGHPmyIfVbwbE6p+LF3NVjvx2Hj00pcO//RXfC4wvR6Ow6qdc+lYMWHhzWFAuHf34unHXLejkPfv1Rgd/vFQwDrOjfF+do098ZurGnqfOx7cRAfLawTuO4KY+WEXzjg0G+tINwI3dZtP1pPZlzejIPqIfLCVlJknpeZJ+Rz9+6MER8xPVbBbkWn3M7ynxTz+anvxcF9pG7dktqcca77JuxiOeGtYLoJ83LCR3CEis2PyvlUrPfi0Pdw3brRl2dBRAZ/Ja+uJdPzIQXnSkLSa5oo/LOCFBg+g1/m2a+gOjw9c0xxrXjEPw/bjjwHPN/jvhEcJtntQZU9O1Gy/aElE67KcusBqvgFfBknsZ+eSpEGcGp8D3aGHxiX7Xkv1VRnLyScMbIEry9eCh03sWtyW+K5/U+HK+ufAG+uJ2DHD7atqhVqcs71W1n9LbuETcf1w2cRJWFtETbrABqMw2QUUg+N28rCkzAcYJejsCF1Tnr7ezo8GDeumI5Ei1cKDj8HcNQfIDimWUUdhcMuwG9bhS3dFLYeu8aLQ2y50jooVW4yNxzI5G3lS2UhSF5A/cqYE+YUcsxMTVmbGQ6kryxyXf7mEnYr6zIvMafWkDs628pFmxkOcQHf0jFUHPB4nvh0icXBgkjqcWou9MxwIA56fFBw6FCGVRM1ZSiORb5pdxdylpnOCwflsBm0ZCsI7Ai5yckY0o0auRu9teYpb8FarNM54SDnHPxuoM4LGJhxVjtLDLUdi6bXkaV4TFy0qO0y7r3r3+eCgyNrqkGqeDtEg1848dHp/U3Hki+X+n3+Q0RbZFY4bMShX6nLjlTAzpZbLfNOHLXiY7jVl7Xg1czZ4NDXiEMpVBxgsmNtZrwlFg+RobhJRpc2QGQ2OLDUFF0IXdISifFkS4QpfOdDqiuvORMclAyIlTiOE8exZWHjR2GrM7NO7SohvehMcJBNPupFQIVUG7sssavaRmQmOLg3QYAq8ZHZbocssxW2mAsO2EUfp+N5Ke/KHKDT+ak4M8GBzFjGaVWJ7QvrNMfqUZ654CgnyEKwKtLll6LKH57vXHDAsZ9xiv8RG9qO0qtHHtZMcNjFy/moDzkRwYIhPUq+ckRmgmOS1lHPaTUx0vW4X2nek7r/l3AsMoJuSelR4M1qCjeJKV1cCL4Q06PkNnOeC44pBtpF2RSb6K94dE5GZoRjEjfshkNj7PiC/dj5M4qGYdGfcbrcik24uo2lV82wNB8c0QQ4nOh+Y6pnu9G2yGhixzPBwbYTTOEc77vYghW7kS3Eata3ZoKDKoH+F3Q3h7cbCpoZx2CMEclmhAML/zjH9XBVz7ELKnS/XJ9cayiSBF/Bn01wMDaXcmwQl1xqIkTqlU264BBLEvwFHOoq3ChRJgQ7R+U+yXt7Tj2Rmw0OZNcGjoMy6URiRuVTle+nFFPChU6rzEy6reulD4f8yIHbeYfiEPa3lkiCLYqDSico1/LVvz0WrWjTc7JD1wAWsm4cNK3kJ06JIy3MbxXgBuJmPwKGowjkZLtML932n9x9a+WeclF17AvLe3AwT3pkcFvnngYH8a34IaRjO2sYB6XqzDXTD/Jd5EwqjUOH2dwV9HQWda38NCmOIUPgDsFBFGMTe2qW7c5WLrTRnXJxj9+h4kh+HYerI3tDFSuw2qo4crW8VGD2w0np7HEAGQ3Xl1Kzz3dnFYcL7Dxm2H4ox0fySmeEIw7B3kLUnJcQSEm3SnVjKaWYnRqPY9TpKlPgWLhgDQBnvxXcVnAAqWX1+ILMnuPRncUY9fMLyNajcThiE2ge1FaujTOm4lgcgYQInsNPsnqcdAAHkiaC4ICrYRyORQ4kYgg1XS6vCIAjULdhU47MnldcW4JFQnGEwB5vXDZsw0fisAqleRCmXmqkFMCxSJSLKUOGliMbjWPUhMqGq2Ekjnp4kLMHoayngmsQDncrX0w5Mr/d1zjAj+44lCW+WMlm7pSAgxhjcSyOpDVcpkvA0w4iGMdCMaZEQ56bYXnLxn3VQTbfwUXJ8uwSh/MLvjaubboQtLSzn96JLqE825NPYRz1VKZdKuiUzKvqO8DJdjfvJVWaTvfuL0WIw2PeRms2Ynm5fqf7EMF02CI1GxtAHIv83K5DLCcmb8I/cAWWzcOXSnlP437mCKn/lXbti+OWh9wLv0a8Kjgwct2XBuNYHP1nHjpWC42F4HDLibP6yepHgFPTJcrgB5ecUiq2yt+dbmNiuTm6lXbdhGIQHPUYLO7uIyW6+ti7zqQ5NAj5MACOCrLGWdLahiPhJ5NwAWSWGy8vttw28GA4FvHe59dIFsfPWDpe7aU+IrFipOmoWwe2XBC7wIjmXMYfz3DXbS6F4mjSjfdlVoYdy5W3Fc0xp3+cRvmktVjveVXPsrLNiyu11uXabDtw9Co4X3F0RIdkxQclmNIjgmwugJVXS3izZK+MWxD3JzjuCS+EDL6FW43rK80+iTHVvSYMP5OgS6voZtN+gGP1FRgZ3ltGjisaHNFE1Wz+1V/JEXO+AsQ/wFF+1TRDRx5Jq2iUS3oVcEI/qmv+3vIFa/p9usvrOB4HxFAxsIGqc8MBzSMd7Gs5h+s2emy6icuNvob/l3FY2cMMoD58W680DuA31lDdD1kQm5Hm42n+/yqO78TBaw2SIdYDW/DowzH04KvYvNexHo0abeP9wzV8EYeTtLYuE2+A/crl3c5DeSDHBMg6fd9fH5MYFa+ffKEXcRzbB9NR9ed7FAWXsT7H1839QYecrJ6CeHo02H7UNJ5q6TUcuRwgImlfd0GXSvvFhpyiG5utSSeyi1SRtW/tRlFx9B+N5eSeMhEjVXd9OONCxi1R0u9LxGE7csBZMiRBxS3aS3QKDmdnoHPgr29sgWlpd6qak3Qes9wjooU9PBwjlfxdqhd5X8U6J09qsgqOulFHa7fjRpaxASfpfJuj18QGGeudt3n4604eseEr96f2ed3ZYp18T+WRX20da52Lan9EmpqTY8dHU1Zhx5sHh95TbnrE0n1H27fU97pCtD0DrVjHDSt1LZtFRmI8KTGaMAjT/TIB+ozjritoL+1NPD1AT493GbyGPkaElmhV5yVGm/PtYQdldAWnw1YHDwHhkr4OyCXRIXFb1W0dQ491OZaEe6EMJN6Z/rgIGCzKt2vQmwjW/9Rlw28x4WeHJH86i94J3GSfpQLpvdhpRZQLLSrCU74KLMta5aew3Ig+L5uzrfmUiGm5RnG2J/oxFU4Bo7YyMrCjPES5TbdZcQiNJEmM8FBkHrVfGuZqIra/jbLL5RJtfVveUAxewuzUK83m2UZolls2FYxrcei2WD9qOl6dDpE24M0o46Ju9Wma1g1Y8JHpevKtePM7L8Pv0SRiEto8WoifPBm+Namisjjsw3BfXCJfDK/moUd1vUPve3RT06L5wRnS/POOJ/xB/dfq+aOPPvroo48++uh/RMO3qf0/SDM+etJ/AAMaIHn4lkaVAAAAAElFTkSuQmCC",
+      "title": "Birth Certification Project",
+      "description": "Developed during an advanced internship at the Municipality of Ben Aoun using HTML, CSS, JavaScript, and PHP. The project optimized internal processes and improved efficiency.",
+      "image": "assets/img/birth.png",
       "type": "programming",
-      "date": "2025-02-10T10:08:34.728Z"
+      "date": "2023-01-01T00:00:00Z"
     },
     {
-      "title": "",
-      "description": "",
-      "image": "",
+      "title": "GMAO System Enhancement",
+      "description": "Enhanced maintenance management systems using Angular and Spring Boot. Focused on modernizing operations and improving industrial infrastructure resilience.",
+      "image": "assets/img/gmao.png",
       "type": "programming",
-      "date": "2025-02-10T10:16:09.814Z"
+      "date": "2023-01-02T00:00:00Z"
+    },
+    {
+      "title": "Python Automation Project",
+      "description": "Created a Python-based solution to automate file downloads and improve organization. Streamlined workflows, reducing manual effort and ensuring better file management.",
+      "image": "assets/img/python_auto.png",
+      "type": "programming",
+      "date": "2023-01-03T00:00:00Z"
+    },
+    {
+      "title": "USSD Codes for Tunisian Providers",
+      "description": "Developed a comprehensive guide for the USSD codes of major telecom providers in Tunisia (Tunisie Telecom, Ooredoo, and Orange). Provides quick access to services such as balance checking, data plans, and customer support.",
+      "image": "assets/img/BingoStroupe.png",
+      "type": "programming",
+      "date": "2023-01-04T00:00:00Z"
+    },
+    {
+      "title": "Color Mixing Mini-Site",
+      "description": "Developed a mini-site to demonstrate the process of color mixing. The site allows users to experiment with primary colors and mix them to create secondary colors, providing an interactive and educational experience.",
+      "image": "assets/img/BingoStroupe.png",
+      "type": "programming",
+      "date": "2023-01-05T00:00:00Z"
+    },
+    {
+      "title": "Ecommerce Website",
+      "description": "Developed a fully functional ecommerce website with features like product listings, shopping cart, and secure payment processing. Offers a seamless and responsive shopping experience.",
+      "image": "assets/img/BingoStroupe.png",
+      "type": "programming",
+      "date": "2023-01-06T00:00:00Z"
+    },
+    {
+      "title": "Logo Design for XYZ",
+      "description": "Designed a sleek, modern logo for a tech startup that captures their innovative spirit. Focused on simplicity and bold color choices.",
+      "image": "assets/img/design-placeholder.png",
+      "type": "graphic",
+      "date": "2023-01-07T00:00:00Z"
+    },
+    {
+      "title": "Website Redesign",
+      "description": "Redesigned a corporate website, focusing on a clean layout and user-friendly interface to improve the user journey and modernize the brand.",
+      "image": "assets/img/design-placeholder.png",
+      "type": "graphic",
+      "date": "2023-01-08T00:00:00Z"
+    },
+    {
+      "title": "Social Media Graphics",
+      "description": "Created visually appealing and consistent social media graphics for a digital marketing campaign. The designs adhered to the brand's guidelines while being creative.",
+      "image": "assets/img/design-placeholder.png",
+      "type": "graphic",
+      "date": "2023-01-09T00:00:00Z"
+    },
+    {
+      "title": "Infographic for Data Visualization",
+      "description": "Created an informative and visually appealing infographic for data visualization, making complex data easier to understand and engaging for the audience.",
+      "image": "assets/img/infograph.png",
+      "type": "graphic",
+      "date": "2023-01-10T00:00:00Z"
+    },
+    {
+      "title": "Poster Design for Music Event",
+      "description": "Designed a vibrant and engaging poster for a music festival, capturing the energy and excitement of the event with bold colors and dynamic visuals.",
+      "image": "assets/img/Poster_Design_for_Music_Event.png",
+      "type": "graphic",
+      "date": "2023-01-11T00:00:00Z"
+    },
+    {
+      "title": "Packaging Design for Organic Products",
+      "description": "Created eco-friendly and visually appealing packaging for a range of organic products, combining sustainability with attractive design elements.",
+      "image": "assets/img/design-placeholder.png",
+      "type": "graphic",
+      "date": "2023-01-12T00:00:00Z"
     }
   ]
 }
